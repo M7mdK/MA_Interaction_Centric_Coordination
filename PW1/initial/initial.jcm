@@ -1,0 +1,9 @@
+mas house_building {
+
+   //Client agents:
+   agent giacomo : clientQ1a.asl
+   
+   agent andrei : clientQ1b.asl
+   
+   agent companyA : companyQ1.asl
+}
