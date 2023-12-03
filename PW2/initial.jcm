@@ -1,0 +1,18 @@
+mas house_building {
+
+	//PW1:
+   /*
+   agent giacomo : clientQ1a.asl
+   
+   agent andrei : clientQ1b.asl
+   
+   agent companyA : companyQ1.asl
+   */
+   
+   //PW2:
+   agent giacomo : clientQ2.asl
+   
+   agent andrei : clientQ2.asl
+   
+   agent companyA : companyQ2.asl
+}
